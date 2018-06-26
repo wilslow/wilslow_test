@@ -9,3 +9,6 @@ Welcome to my awesome documentation site !
 ### Some related resources
 
 [GitHUb Licences](https://help.github.com/articles/licensing-a-repository/)
+
+
+![GitHub Logo](/images/logo.png)
